@@ -1,6 +1,6 @@
-Hi, I'm , a passionate self-taught Mobile Developer 🚀 from Vietnam.
+Hi, I'm Vo Phuoc Dat, a passionate self-taught Developer 🚀 from Vietnam.
 
-GIF
+#GIF
 
 Talking about Personal Stuffs:
 
@@ -10,5 +10,4 @@ Talking about Personal Stuffs:
 📫 How to reach me: @
 📝 Resume
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
-
+![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
