@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm , a passionate self-taught Mobile Developer 🚀 from Vietnam.
 
-<!--
-**VoDiayti/VoDiayti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GIF
 
-Here are some ideas to get you started:
+Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏽‍💻 I’m currently working on something cool 😉
+🌱 I’m currently learning React Native & Typescript
+💬 Ask me about anything, I am happy to help
+📫 How to reach me: @
+📝 Resume
+
+https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
