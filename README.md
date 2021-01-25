@@ -1,4 +1,4 @@
-Hi, I'm Vo Phuoc Dat, a passionate self-taught Developer 🚀 from Vietnam.
+**Hi**, I'm **Vo Phuoc Dat**, a passionate self-taught Developer 🚀 from Vietnam.
 
 #GIF
 
