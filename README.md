@@ -10,4 +10,4 @@
 
 ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-[! [Số liệu thống kê trên github của Anurag] (https://github-readme-stats.vercel.app/api ? VoDiayti = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
+[! [Số liệu thống kê trên github của Anurag] (https://github-readme-stats.vercel.app/api ? Username = VoDiayti )] (https://github.com/anuraghazra/github-readme-stats)
