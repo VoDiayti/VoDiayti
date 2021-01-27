@@ -9,5 +9,3 @@
 - 📝 Resume
 
 ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-
-![Số liệu thống kê trên github] (https://github-readme-stats.vercel.app/api ? Username = vodiayti & theme = blueberry & ​​show_icons = true )
