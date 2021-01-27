@@ -1,7 +1,4 @@
-**Hi**, I'm [Vo Phuoc Dat](https://www.facebook.com/Diaytii/), a passionate self-taught Developer 🚀 from Vietnam.
-
-#GIF
-![](https://giphy.com/stickers/fire-effects-studiosoriginalstickers-d3MK2JGObFW0NPSE)
+**Hi**, I'm [Vo Phuoc Dat!](https://www.facebook.com/Diaytii/), a passionate self-taught Developer 🚀 from Vietnam.
 
 **Talking about Personal Stuffs:**
 
@@ -12,3 +9,5 @@
 - 📝 Resume
 
 ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+[! [Số liệu thống kê trên github của Anurag] (https://github-readme-stats.vercel.app/api ? VoDiayti = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
