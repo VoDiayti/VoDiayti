@@ -2,8 +2,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool 😉
-- 🌱 I’m currently learning ReactJS & PHP
+- 👨🏽‍💻 I’m currently working on something cool
+- 🎓 I’m currently learning ReactJS & PHP
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [FaceBook](https://www.facebook.com/Diaytii/)
 
