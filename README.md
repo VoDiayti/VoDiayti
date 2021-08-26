@@ -3,9 +3,8 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
-- 🌱 I’m currently learning React Native & Typescript
+- 🌱 I’m currently learning ReactJS & PHP
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [FB](https://www.facebook.com/Diaytii/)
-- 📝 Resume
+- 📫 Contact me: [FB](https://www.facebook.com/Diaytii/)
 
 ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
