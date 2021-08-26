@@ -5,6 +5,6 @@
 - 👨🏽‍💻 I’m currently working on something cool 😉
 - 🌱 I’m currently learning ReactJS & PHP
 - 💬 Ask me about anything, I am happy to help
-- 📫 Contact me: [FB](https://www.facebook.com/Diaytii/)
+- 📫 How to reach me: [FaceBook](https://www.facebook.com/Diaytii/)
 
 ![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
